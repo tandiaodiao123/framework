@@ -1,5 +1,0 @@
-2022-03-19 00:04:43,143--test_register.py--hanghao:63--INFO:测试用例通过
-2022-03-19 00:04:43,586--test_register.py--hanghao:63--INFO:测试用例通过
-2022-03-19 00:05:04,816--test_register.py--hanghao:63--INFO:测试用例通过
-2022-03-19 00:05:05,022--test_register.py--hanghao:63--INFO:测试用例通过
-2022-03-19 00:05:05,176--test_register.py--hanghao:63--INFO:测试用例通过

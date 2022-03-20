@@ -1,8 +1,0 @@
-2022-03-20 16:23:04,574--test_login.py--hanghao:29--INFO:测试用例通过
-2022-03-20 16:23:07,611--test_login.py--hanghao:29--INFO:测试用例通过
-2022-03-20 16:23:08,853--test_login.py--hanghao:29--INFO:测试用例通过
-2022-03-20 16:23:10,237--test_login.py--hanghao:29--INFO:测试用例通过
-2022-03-20 16:23:11,958--test_login.py--hanghao:29--INFO:测试用例通过
-2022-03-20 16:23:20,122--test_recharge.py--hanghao:68--INFO:测试用例通过
-2022-03-20 16:23:21,924--test_recharge.py--hanghao:68--INFO:测试用例通过
-2022-03-20 16:23:24,719--test_recharge.py--hanghao:68--INFO:测试用例通过

@@ -1,6 +1,0 @@
-2022-03-13 22:53:48,210--test_register.py--hanghao:49--ERROR:测试用例无法通过string indices must be integers
-2022-03-13 22:54:04,617--test_register.py--hanghao:49--ERROR:测试用例无法通过(2003, "Can't connect to MySQL server on '8.129.91.152' (timed out)")
-2022-03-13 22:54:05,998--test_register.py--hanghao:49--ERROR:测试用例无法通过string indices must be integers
-2022-03-13 22:54:17,426--test_register.py--hanghao:49--ERROR:测试用例无法通过(2003, "Can't connect to MySQL server on '8.129.91.152' (timed out)")
-2022-03-13 22:54:40,456--test_register.py--hanghao:49--ERROR:测试用例无法通过string indices must be integers
-2022-03-13 22:54:40,749--test_register.py--hanghao:47--INFO:测试用例通过
