@@ -1,0 +1,3 @@
+2022-03-13 22:57:21,820--test_register.py--hanghao:48--INFO:测试用例通过
+2022-03-13 22:57:24,126--test_register.py--hanghao:50--ERROR:测试用例无法通过False is not true
+2022-03-13 22:57:24,911--test_register.py--hanghao:50--ERROR:测试用例无法通过False is not true

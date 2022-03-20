@@ -1,0 +1,14 @@
+2022-03-20 14:46:11,565--test_recharge.py--hanghao:49--INFO:测试用例通过
+2022-03-20 14:46:11,761--test_recharge.py--hanghao:49--INFO:测试用例通过
+2022-03-20 14:46:11,972--test_recharge.py--hanghao:49--INFO:测试用例通过
+2022-03-20 14:46:12,144--test_recharge.py--hanghao:49--INFO:测试用例通过
+2022-03-20 14:46:12,361--test_recharge.py--hanghao:49--INFO:测试用例通过
+2022-03-20 14:46:12,504--test_recharge.py--hanghao:49--INFO:测试用例通过
+2022-03-20 14:46:12,692--test_recharge.py--hanghao:51--ERROR:测试用例不通过 :: 2 != 0
+2022-03-20 14:46:12,873--test_recharge.py--hanghao:49--INFO:测试用例通过
+2022-03-20 14:46:13,050--test_recharge.py--hanghao:51--ERROR:测试用例不通过 :: 2 != 0
+2022-03-20 14:46:13,214--test_recharge.py--hanghao:51--ERROR:测试用例不通过 :: 金额必须大于0并且小于或者等于500000 != 余额必须大于0并且小于或者等于500000
+2022-03-20 14:46:13,371--test_recharge.py--hanghao:49--INFO:测试用例通过
+2022-03-20 14:46:13,552--test_recharge.py--hanghao:49--INFO:测试用例通过
+2022-03-20 14:46:13,720--test_recharge.py--hanghao:49--INFO:测试用例通过
+2022-03-20 14:46:13,892--test_recharge.py--hanghao:49--INFO:测试用例通过

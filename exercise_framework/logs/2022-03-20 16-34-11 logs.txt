@@ -1,0 +1,10 @@
+2022-03-20 16:34:15,884--test_login.py--hanghao:29--INFO:测试用例通过
+2022-03-20 16:34:17,043--test_login.py--hanghao:29--INFO:测试用例通过
+2022-03-20 16:34:18,182--test_login.py--hanghao:29--INFO:测试用例通过
+2022-03-20 16:34:32,757--test_recharge.py--hanghao:68--INFO:测试用例通过
+2022-03-20 16:34:34,940--test_recharge.py--hanghao:68--INFO:测试用例通过
+2022-03-20 16:34:37,171--test_recharge.py--hanghao:68--INFO:测试用例通过
+2022-03-20 16:34:40,572--test_recharge.py--hanghao:68--INFO:测试用例通过
+2022-03-20 16:34:43,255--test_recharge.py--hanghao:68--INFO:测试用例通过
+2022-03-20 16:34:45,137--test_recharge.py--hanghao:68--INFO:测试用例通过
+2022-03-20 16:34:47,642--test_recharge.py--hanghao:70--ERROR:测试用例不通过2 != 0

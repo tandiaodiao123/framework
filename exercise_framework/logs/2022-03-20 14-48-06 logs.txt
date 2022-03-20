@@ -1,0 +1,14 @@
+2022-03-20 14:48:07,803--test_recharge.py--hanghao:49--INFO:测试用例通过
+2022-03-20 14:48:07,962--test_recharge.py--hanghao:49--INFO:测试用例通过
+2022-03-20 14:48:08,151--test_recharge.py--hanghao:49--INFO:测试用例通过
+2022-03-20 14:48:08,307--test_recharge.py--hanghao:49--INFO:测试用例通过
+2022-03-20 14:48:08,455--test_recharge.py--hanghao:49--INFO:测试用例通过
+2022-03-20 14:48:08,614--test_recharge.py--hanghao:49--INFO:测试用例通过
+2022-03-20 14:48:08,780--test_recharge.py--hanghao:51--ERROR:测试用例不通过 :: 2 != 0
+2022-03-20 14:48:08,937--test_recharge.py--hanghao:49--INFO:测试用例通过
+2022-03-20 14:48:09,094--test_recharge.py--hanghao:51--ERROR:测试用例不通过 :: 2 != 0
+2022-03-20 14:48:09,271--test_recharge.py--hanghao:49--INFO:测试用例通过
+2022-03-20 14:48:09,693--test_recharge.py--hanghao:49--INFO:测试用例通过
+2022-03-20 14:48:10,127--test_recharge.py--hanghao:49--INFO:测试用例通过
+2022-03-20 14:48:10,294--test_recharge.py--hanghao:49--INFO:测试用例通过
+2022-03-20 14:48:10,455--test_recharge.py--hanghao:49--INFO:测试用例通过

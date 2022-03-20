@@ -1,0 +1,11 @@
+2022-03-13 22:54:42,530--test_register.py--hanghao:47--INFO:测试用例通过
+2022-03-13 22:54:43,117--test_register.py--hanghao:49--ERROR:测试用例无法通过'mobile'
+2022-03-13 22:54:43,696--test_register.py--hanghao:49--ERROR:测试用例无法通过'mobile'
+2022-03-13 22:54:44,348--test_register.py--hanghao:49--ERROR:测试用例无法通过'mobile'
+2022-03-13 22:54:45,015--test_register.py--hanghao:49--ERROR:测试用例无法通过'mobile'
+2022-03-13 22:54:45,689--test_register.py--hanghao:49--ERROR:测试用例无法通过'mobile'
+2022-03-13 22:54:46,234--test_register.py--hanghao:49--ERROR:测试用例无法通过'mobile'
+2022-03-13 22:54:46,479--test_register.py--hanghao:47--INFO:测试用例通过
+2022-03-13 22:54:47,018--test_register.py--hanghao:49--ERROR:测试用例无法通过'mobile'
+2022-03-13 22:54:47,505--test_register.py--hanghao:49--ERROR:测试用例无法通过'mobile'
+2022-03-13 22:54:47,689--test_register.py--hanghao:49--ERROR:测试用例无法通过0 is not true : 2

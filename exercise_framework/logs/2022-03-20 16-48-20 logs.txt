@@ -1,0 +1,5 @@
+2022-03-20 16:48:23,676--test_login.py--hanghao:29--INFO:测试用例通过
+2022-03-20 16:48:24,794--test_login.py--hanghao:29--INFO:测试用例通过
+2022-03-20 16:48:26,090--test_login.py--hanghao:29--INFO:测试用例通过
+2022-03-20 16:48:27,230--test_login.py--hanghao:29--INFO:测试用例通过
+2022-03-20 16:48:29,557--test_login.py--hanghao:29--INFO:测试用例通过
