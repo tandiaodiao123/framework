@@ -1,0 +1,1 @@
+2022-03-13 22:53:31,589--test_register.py--hanghao:49--ERROR:测试用例无法通过string indices must be integers

@@ -1,0 +1,14 @@
+2022-03-20 14:45:17,130--test_recharge.py--hanghao:49--INFO:测试用例通过
+2022-03-20 14:45:17,310--test_recharge.py--hanghao:49--INFO:测试用例通过
+2022-03-20 14:45:17,511--test_recharge.py--hanghao:49--INFO:测试用例通过
+2022-03-20 14:45:17,684--test_recharge.py--hanghao:49--INFO:测试用例通过
+2022-03-20 14:45:17,872--test_recharge.py--hanghao:49--INFO:测试用例通过
+2022-03-20 14:45:18,021--test_recharge.py--hanghao:49--INFO:测试用例通过
+2022-03-20 14:45:18,189--test_recharge.py--hanghao:51--ERROR:测试用例不通过 :: 2 != 0
+2022-03-20 14:45:18,342--test_recharge.py--hanghao:49--INFO:测试用例通过
+2022-03-20 14:45:18,544--test_recharge.py--hanghao:51--ERROR:测试用例不通过 :: 2 != 0
+2022-03-20 14:45:18,693--test_recharge.py--hanghao:51--ERROR:测试用例不通过Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+2022-03-20 14:45:18,880--test_recharge.py--hanghao:49--INFO:测试用例通过
+2022-03-20 14:45:19,075--test_recharge.py--hanghao:49--INFO:测试用例通过
+2022-03-20 14:45:19,229--test_recharge.py--hanghao:49--INFO:测试用例通过
+2022-03-20 14:45:19,390--test_recharge.py--hanghao:49--INFO:测试用例通过

@@ -1,0 +1,14 @@
+2022-03-20 14:29:12,957--test_recharge.py--hanghao:49--INFO:测试用例通过
+2022-03-20 14:29:13,150--test_recharge.py--hanghao:49--INFO:测试用例通过
+2022-03-20 14:29:13,312--test_recharge.py--hanghao:49--INFO:测试用例通过
+2022-03-20 14:29:13,488--test_recharge.py--hanghao:49--INFO:测试用例通过
+2022-03-20 14:29:13,661--test_recharge.py--hanghao:49--INFO:测试用例通过
+2022-03-20 14:29:13,835--test_recharge.py--hanghao:49--INFO:测试用例通过
+2022-03-20 14:29:14,049--test_recharge.py--hanghao:49--INFO:测试用例通过
+2022-03-20 14:29:14,220--test_recharge.py--hanghao:51--ERROR:测试用例不通过 :: 0 != 2
+2022-03-20 14:29:14,397--test_recharge.py--hanghao:51--ERROR:测试用例不通过 :: 2 != 0
+2022-03-20 14:29:14,584--test_recharge.py--hanghao:51--ERROR:测试用例不通过Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+2022-03-20 14:29:14,822--test_recharge.py--hanghao:51--ERROR:测试用例不通过 :: 1 != 2
+2022-03-20 14:29:15,035--test_recharge.py--hanghao:51--ERROR:测试用例不通过 :: 金额小数超过两位 != 余额小数超过两位
+2022-03-20 14:29:15,261--test_recharge.py--hanghao:51--ERROR:测试用例不通过 :: 金额必须大于0并且小于或者等于500000 != 余额必须大于0并且小于或者等于500000
+2022-03-20 14:29:15,415--test_recharge.py--hanghao:49--INFO:测试用例通过

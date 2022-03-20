@@ -1,2 +1,6 @@
-# @time: 2022/2/13 11:51
-# -*- coding:utf-8 -*-
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# @Time    : 2022/3/6 19:48
+# @Author  : datan
+# @Site    : 
+# @File    : __init__.py.py

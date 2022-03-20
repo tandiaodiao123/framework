@@ -1,3 +1,0 @@
-2022-02-15 15:35:20,993--loggingHandler.py--hanghao:46--INFO:this is info
-2022-02-15 15:35:20,993--loggingHandler.py--hanghao:47--DEBUG:this is debug
-2022-02-15 15:35:20,993--loggingHandler.py--hanghao:48--ERROR:this is error

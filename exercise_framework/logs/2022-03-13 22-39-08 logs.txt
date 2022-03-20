@@ -1,0 +1,11 @@
+2022-03-13 22:39:10,344--test_register.py--hanghao:47--ERROR:测试用例无法通过string indices must be integers
+2022-03-13 22:39:11,047--test_register.py--hanghao:47--ERROR:测试用例无法通过string indices must be integers
+2022-03-13 22:39:11,618--test_register.py--hanghao:47--ERROR:测试用例无法通过string indices must be integers
+2022-03-13 22:39:12,285--test_register.py--hanghao:47--ERROR:测试用例无法通过string indices must be integers
+2022-03-13 22:39:12,967--test_register.py--hanghao:47--ERROR:测试用例无法通过string indices must be integers
+2022-03-13 22:39:13,614--test_register.py--hanghao:47--ERROR:测试用例无法通过string indices must be integers
+2022-03-13 22:39:14,244--test_register.py--hanghao:47--ERROR:测试用例无法通过string indices must be integers
+2022-03-13 22:39:14,927--test_register.py--hanghao:47--ERROR:测试用例无法通过string indices must be integers
+2022-03-13 22:39:15,509--test_register.py--hanghao:47--ERROR:测试用例无法通过string indices must be integers
+2022-03-13 22:39:16,097--test_register.py--hanghao:47--ERROR:测试用例无法通过string indices must be integers
+2022-03-13 22:39:16,315--test_register.py--hanghao:47--ERROR:测试用例无法通过0 is not true : 2

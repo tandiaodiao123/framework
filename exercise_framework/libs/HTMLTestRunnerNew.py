@@ -164,9 +164,9 @@ class Template_mixin(object):
     2: '错误',
     }
 
-    DEFAULT_TITLE = '我的自动化测试报告'
+    DEFAULT_TITLE = '2019年的自动化测试报告'
     DEFAULT_DESCRIPTION = ''
-    DEFAULT_TESTER='datan'
+    DEFAULT_TESTER='lemon'
 
     # ------------------------------------------------------------------------
     # HTML Template

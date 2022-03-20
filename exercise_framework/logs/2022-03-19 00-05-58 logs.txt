@@ -1,0 +1,11 @@
+2022-03-19 00:05:59,628--test_register.py--hanghao:49--INFO:测试用例通过
+2022-03-19 00:05:59,778--test_register.py--hanghao:49--INFO:测试用例通过
+2022-03-19 00:05:59,929--test_register.py--hanghao:49--INFO:测试用例通过
+2022-03-19 00:06:00,087--test_register.py--hanghao:49--INFO:测试用例通过
+2022-03-19 00:06:00,609--test_register.py--hanghao:49--INFO:测试用例通过
+2022-03-19 00:06:00,760--test_register.py--hanghao:49--INFO:测试用例通过
+2022-03-19 00:06:01,000--test_register.py--hanghao:49--INFO:测试用例通过
+2022-03-19 00:06:01,227--test_register.py--hanghao:49--INFO:测试用例通过
+2022-03-19 00:06:01,378--test_register.py--hanghao:49--INFO:测试用例通过
+2022-03-19 00:06:01,579--test_register.py--hanghao:49--INFO:测试用例通过
+2022-03-19 00:06:02,721--test_register.py--hanghao:49--INFO:测试用例通过

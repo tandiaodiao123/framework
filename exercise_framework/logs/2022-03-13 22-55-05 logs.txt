@@ -1,0 +1,11 @@
+2022-03-13 22:55:06,980--test_register.py--hanghao:47--INFO:测试用例通过
+2022-03-13 22:55:07,620--test_register.py--hanghao:49--ERROR:测试用例无法通过string indices must be integers
+2022-03-13 22:55:08,258--test_register.py--hanghao:49--ERROR:测试用例无法通过string indices must be integers
+2022-03-13 22:55:08,974--test_register.py--hanghao:49--ERROR:测试用例无法通过(1054, "Unknown column '1550000000q' in 'where clause'")
+2022-03-13 22:55:09,710--test_register.py--hanghao:49--ERROR:测试用例无法通过string indices must be integers
+2022-03-13 22:55:10,379--test_register.py--hanghao:49--ERROR:测试用例无法通过string indices must be integers
+2022-03-13 22:55:11,205--test_register.py--hanghao:49--ERROR:测试用例无法通过string indices must be integers
+2022-03-13 22:55:11,420--test_register.py--hanghao:47--INFO:测试用例通过
+2022-03-13 22:55:12,149--test_register.py--hanghao:49--ERROR:测试用例无法通过string indices must be integers
+2022-03-13 22:55:12,888--test_register.py--hanghao:49--ERROR:测试用例无法通过string indices must be integers
+2022-03-13 22:55:13,113--test_register.py--hanghao:49--ERROR:测试用例无法通过0 is not true : 2

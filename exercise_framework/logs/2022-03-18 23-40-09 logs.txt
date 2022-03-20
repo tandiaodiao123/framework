@@ -1,0 +1,11 @@
+2022-03-18 23:40:11,077--test_register.py--hanghao:49--INFO:测试用例通过
+2022-03-18 23:40:11,233--test_register.py--hanghao:49--INFO:测试用例通过
+2022-03-18 23:40:11,392--test_register.py--hanghao:49--INFO:测试用例通过
+2022-03-18 23:40:11,578--test_register.py--hanghao:49--INFO:测试用例通过
+2022-03-18 23:40:11,846--test_register.py--hanghao:49--INFO:测试用例通过
+2022-03-18 23:40:11,998--test_register.py--hanghao:49--INFO:测试用例通过
+2022-03-18 23:40:12,154--test_register.py--hanghao:49--INFO:测试用例通过
+2022-03-18 23:40:12,312--test_register.py--hanghao:49--INFO:测试用例通过
+2022-03-18 23:40:12,800--test_register.py--hanghao:49--INFO:测试用例通过
+2022-03-18 23:40:12,972--test_register.py--hanghao:49--INFO:测试用例通过
+2022-03-18 23:40:14,761--test_register.py--hanghao:51--ERROR:测试用例无法通过0 is not true : 2
